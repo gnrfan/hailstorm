@@ -39,10 +39,11 @@ distutils.core.setup(
     url="http://github.com/bitzeppelin/hailstorm/",
     download_url="https://github.com/bitzeppelin/hailstorm/archive/master.zip",
     license="http://www.apache.org/licenses/LICENSE-2.0",
-    description='A Python templating library in the style of Jinja2 and Django templates '
-                'featuring the full power of Python in the expressions that can be embedded '
-                'in the template files. Hailstorm was extracted from the templating code '
-                'that is part of Tornado Web Server framework published by Facebook.',
+    description='A Python templating library in the style of Jinja2 and '
+                'Django templates featuring the full power of Python in the '
+                'expressions that can be embedded in the template files. '
+                'Hailstorm was extracted from the templating code that is '
+                'part of Tornado Web Server framework published by Facebook.',
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
